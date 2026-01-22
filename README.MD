@@ -153,7 +153,8 @@ These outputs can be directly consumed in **Power BI**, Tableau, or other visual
 
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/prs-24/Aadhaar-Enrolment-Insights.git
+git clone https://github.com/prs-24/Aadhaar-Enrolment-Insights.git```
+
 2️⃣ Place UIDAI enrolment CSV files in the data/ directory
 
 3️⃣ Run the Jupyter notebooks or Python scripts
@@ -183,3 +184,4 @@ Aashish Chandr — Research Support & Analysis
 🔗 https://github.com/Aashish-Chandr
 
 ⭐ If you find this project insightful, consider giving it a star on GitHub!
+
