@@ -110,6 +110,8 @@ The solution analyzes enrolment behaviour at **national, state, and district lev
 
 ## 📁 Project Structure
 
+```bash
+
 Aadhaar-Enrolment-Insights/
 ├── notebooks/ # Jupyter notebooks
 ├── src/ # Python scripts
@@ -119,3 +121,5 @@ Aadhaar-Enrolment-Insights/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
